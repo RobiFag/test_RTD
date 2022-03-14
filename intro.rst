@@ -31,12 +31,6 @@ Example of anchor to a section :ref:`section-anchor`
 
 .. image:: img/Gter.png
 
-..
-    add centerd image
-
-.. image:: img/Gter.png
-  :align: center
-
 
 Text goes here **Bold** *Italic* |examplesuperscript| |examplesubscript|
 
@@ -80,8 +74,6 @@ Example of html iframe
 		<iframe src="https://www.gter.it/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 	</div>
 
-   
-Example of download, file must be in the repository folder :download:`png <img/logo.png>`
 
 This is a link to a web page https://www.gter.it/.
 
